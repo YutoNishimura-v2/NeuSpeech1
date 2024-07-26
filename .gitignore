@@ -16,3 +16,5 @@ test.py
 /try.py
 /match_video_eeg/util_functions.py
 /metrics/bert-base-chinese/vocab.txt
+wandb/
+output_models/
