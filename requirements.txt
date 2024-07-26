@@ -1,3 +1,8 @@
+torch
+peft
+librosa
+zhconv
 mne
 transformers
 jsonlines
+wandb

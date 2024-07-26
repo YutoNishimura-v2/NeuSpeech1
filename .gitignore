@@ -18,3 +18,4 @@ test.py
 /metrics/bert-base-chinese/vocab.txt
 wandb/
 output_models/
+logs/
