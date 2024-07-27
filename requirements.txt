@@ -6,3 +6,8 @@ mne
 transformers
 jsonlines
 wandb
+evaluate
+yake
+torchmetrics
+bert_score
+nltk
